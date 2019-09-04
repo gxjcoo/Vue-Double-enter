@@ -1,0 +1,30 @@
+/* 标题 */
+.bule_strip_header{
+    display: flex;
+    height: 2rem;
+    line-height: 2.5rem;
+    margin-bottom:1rem
+}
+.bule_strip_header .bule_strip{
+background: #1B89F0;
+width: 0.38rem;
+height: 0.83rem;
+margin-right: 0.6rem;
+margin-top: 0.89rem;
+}
+.bule_strip_header .title{
+    font-size: 0.67rem;
+    font-family: MicrosoftYaHei-Bold;
+    font-weight: bold;
+    color: rgba(51,51,51,1);
+}
+.borderRadius{
+    border-radius: 10px;
+}
+.editBTn{
+    color:#1b89f0
+}
+.btnFont{font-size: 1rem}
+.deleteBtn{
+    color:#f00
+}
